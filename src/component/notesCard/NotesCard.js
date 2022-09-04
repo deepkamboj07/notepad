@@ -14,7 +14,7 @@ const NotesCard=(props)=>{
             <div className={Classes.notesDetail}>
                 <h3>{props.title}</h3>
                 <div className={Classes.line}></div>
-                <p>{summry}....</p>
+                <p>{summry}.....</p>
             </div>
         </div>
     )
