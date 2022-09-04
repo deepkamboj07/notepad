@@ -1,0 +1,55 @@
+.addButtonContainer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3.2rem;
+    width: 14rem;
+    height: 14rem;
+}
+.error{
+    text-align: center;
+    padding-top: 10px;
+    color: #DC3545;
+}
+.pencil{
+    display: flex;
+    justify-content: center;
+}
+.pencil i{
+    font-size: 5.5rem;
+    border: 0.4px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    color: #3f3108;
+    cursor: pointer;
+}
+
+.pencil i:hover{
+    animation: aniimg 1.0s;
+    box-shadow: 7px 6px 10px 3px rgba(78, 78, 78, 0.712);
+    transform: scale(1.08);
+}
+@keyframes aniimg {
+    from{box-shadow: 0 white;
+        transform: scale(1.0)
+    }
+    to{
+        transform: scale(1.08);
+    }
+}
+.addCont{
+    position:relative;
+    display: flexbox;
+    padding: 20px;
+    width: 100%;
+}
+.form{
+    max-width: 45rem;
+    padding: 10px;
+    width: 100%;
+}
+.button button{
+    max-width: 45rem;
+    width: 100%;  
+}

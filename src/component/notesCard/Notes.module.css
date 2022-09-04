@@ -1,0 +1,48 @@
+.Notes-Cover{
+    position: relative;
+    margin: 3rem;
+    width: 15rem;
+    height: 16rem;
+    background-color: white;
+    padding: 4px;
+    color: black;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.315);
+    border-bottom: 4px solid #ffc107;
+}
+.pin{
+    position:absolute;
+    width: 2.4rem;
+    top: 4px;
+    right: 3px;
+    cursor: pointer;
+}
+.pin:hover{
+    height: 2.6rem;
+    top: -9px;
+    opacity: 0.7;
+    border-bottom: 0.3px solid black;
+}
+.pin:active{
+    box-shadow: 2px 2px 2px 2px #DC3545;
+}
+.notesDetail h3{
+    font-size: 19px;
+}
+.line{
+    width: 100%px;
+    height: 1px;
+    background-color: black;
+    margin: 10px 20px 15px 0px;
+}
+.notesDetail p{
+    margin-top: -2px;
+    font-size: 13.5px;
+}
+.wraper{
+    position: relative;
+    padding-top: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: left;
+}
