@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/notepad/static/css/main.8f33e458.css",
+    "main.css": "/notepad/static/css/main.c0793eda.css",
     "main.js": "/notepad/static/js/main.b32b0fab.js",
     "static/js/787.1f50f65d.chunk.js": "/notepad/static/js/787.1f50f65d.chunk.js",
     "static/media/pin.png": "/notepad/static/media/pin.f129f2c4d50310315a13.png",
     "static/media/icon.png": "/notepad/static/media/icon.c1410e8498313d6ef1d5.png",
     "index.html": "/notepad/index.html",
-    "main.8f33e458.css.map": "/notepad/static/css/main.8f33e458.css.map",
+    "main.c0793eda.css.map": "/notepad/static/css/main.c0793eda.css.map",
     "main.b32b0fab.js.map": "/notepad/static/js/main.b32b0fab.js.map",
     "787.1f50f65d.chunk.js.map": "/notepad/static/js/787.1f50f65d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f33e458.css",
+    "static/css/main.c0793eda.css",
     "static/js/main.b32b0fab.js"
   ]
 }
